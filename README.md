@@ -1,1 +1,1 @@
-# ImageProcessing
+# Görüntü işleme uygulama pratikleri
